@@ -1,2 +1,2 @@
 # Trackie
-a status tracker app for applied jobs via condidate
+A status tracker app for applied jobs via candidate.
